@@ -8,7 +8,7 @@ Solução desenvolvida para calcular e comunicar o impacto ambiental evitado por
 
 - Atuação como **Product Owner (P.O.)**, liderando a definição de visão do produto e priorização de backlog.
 - Mapeamento e estruturação de requisitos de negócios e histórias de usuário.
-- Organização e acompanhamento das entregas do time utilizando metodologia ágil (Kanban/Scrum).
+- Organização e acompanhamento das entregas do time utilizando metodologia ágil (Scrum).
 - Validação e acompanhamento de protótipos focados na experiência do usuário e regras de negócio.
 
 ---
